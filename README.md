@@ -37,5 +37,14 @@ https://www.tinkercad.com/things/0ldnMnbb979-gs-solar-volts-lcd
 ## Sobre o Projeto
 Este projeto foi feito para melhorar a gestão de energia de uma casa, empresa ou fábrica.
 
+# Feito por:
+Ian Junji – RM560588
+
+Leonardo de Souza – RM560501
+
+Leandro Kamada – RM560381
+
+ 
+
 ## Licença
 Este projeto é livre para ser usado e modificado para fins de estudo.
