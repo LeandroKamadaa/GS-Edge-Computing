@@ -2,6 +2,14 @@
 
 Este projeto foi feito para monitorar a energia gerada de painéis solares, ele lê a voltagem de quatro placas solares usando um Arduino e mostra a voltagem total em um display LCD e no monitor serial.
 
+# Feito por:
+Ian Junji – RM560588
+
+Leonardo de Souza – RM560501
+
+Leandro Kamada – RM560381
+
+
 ## O que você vai precisar
 - **Arduino** (qualquer modelo com entradas analógicas)
 - **Display LCD** compatível com a biblioteca Adafruit LiquidCrystal
@@ -37,12 +45,6 @@ https://www.tinkercad.com/things/0ldnMnbb979-gs-solar-volts-lcd
 ## Sobre o Projeto
 Este projeto foi feito para melhorar a gestão de energia de uma casa, empresa ou fábrica.
 
-# Feito por:
-Ian Junji – RM560588
-
-Leonardo de Souza – RM560501
-
-Leandro Kamada – RM560381
 
  
 
